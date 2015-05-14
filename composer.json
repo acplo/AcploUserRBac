@@ -10,8 +10,8 @@
     "phpunit/phpunit" : "4.*"
   },
   "authors" : [ {
-    "name" : "ojhaujjwal",
-    "email" : "bring2uo@gmail.com"
+    "name" : "Acplo",
+    "email" : "abellopes@gmail.com"
   } ],
   "keywords" : [ "zf2", "module", "zendframework" ],
   "autoload" : {
